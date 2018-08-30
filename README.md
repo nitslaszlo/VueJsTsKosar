@@ -1,4 +1,7 @@
-# vuejs-ts-kosar
+# Vue.js TypeScript Kosár
+
+Forrás: Dósa Bálint: https://github.com/dosabalint/webfejleszto-vue-01-03<br>
+Fejlesztői környezet beállítása: https://github.com/nitslaszlo/JedlikVueJsStarter
 
 ## Project setup
 ```

@@ -14,7 +14,7 @@ export default class CartItem {
     return this.basePrice * this.count;
   }
 
-  static CanBeConstructed(
+  public static CanBeConstructed(
     name: string,
     count: number,
     basePrice: number
